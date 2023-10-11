@@ -7,9 +7,6 @@
 [submodule "lib/solmate"]
 	path = lib/solmate
 	url = https://github.com/transmissions11/solmate
-[submodule "lib/BoringSolidity"]
-	path = lib/BoringSolidity
-	url = https://github.com/boringcrypto/BoringSolidity
 [submodule "lib/solidity-utils"]
 	path = lib/solidity-utils
 	url = https://github.com/1inch/solidity-utils
@@ -18,12 +15,6 @@
 	path = lib/openzeppelin-contracts
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts
 	branch = v4.8.1
-[submodule "lib/v3-core"]
-	path = lib/v3-core
-	url = https://github.com/Uniswap/v3-core
-[submodule "lib/v3-periphery"]
-	path = lib/v3-periphery
-	url = https://github.com/Uniswap/v3-periphery
 [submodule "lib/xERC20"]
 	path = lib/xERC20
 	url = https://github.com/connext/xERC20
